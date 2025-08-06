@@ -1,0 +1,7 @@
+node_modules/
+
+# Ignore .env file
+.env
+
+# Do NOT ignore .env.example
+!.env.example
